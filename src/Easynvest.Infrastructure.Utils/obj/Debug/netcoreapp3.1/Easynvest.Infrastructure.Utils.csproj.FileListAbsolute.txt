@@ -1,0 +1,9 @@
+W:\Desafio-Easynvest\Easynvest\src\Easynvest.Infrastructure.Utils\bin\Debug\netcoreapp3.1\Easynvest.Infrastructure.Utils.deps.json
+W:\Desafio-Easynvest\Easynvest\src\Easynvest.Infrastructure.Utils\bin\Debug\netcoreapp3.1\Easynvest.Infrastructure.Utils.dll
+W:\Desafio-Easynvest\Easynvest\src\Easynvest.Infrastructure.Utils\bin\Debug\netcoreapp3.1\Easynvest.Infrastructure.Utils.pdb
+W:\Desafio-Easynvest\Easynvest\src\Easynvest.Infrastructure.Utils\obj\Debug\netcoreapp3.1\Easynvest.Infrastructure.Utils.AssemblyInfoInputs.cache
+W:\Desafio-Easynvest\Easynvest\src\Easynvest.Infrastructure.Utils\obj\Debug\netcoreapp3.1\Easynvest.Infrastructure.Utils.AssemblyInfo.cs
+W:\Desafio-Easynvest\Easynvest\src\Easynvest.Infrastructure.Utils\obj\Debug\netcoreapp3.1\Easynvest.Infrastructure.Utils.csproj.CoreCompileInputs.cache
+W:\Desafio-Easynvest\Easynvest\src\Easynvest.Infrastructure.Utils\obj\Debug\netcoreapp3.1\Easynvest.Infrastructure.Utils.dll
+W:\Desafio-Easynvest\Easynvest\src\Easynvest.Infrastructure.Utils\obj\Debug\netcoreapp3.1\Easynvest.Infrastructure.Utils.pdb
+W:\Desafio-Easynvest\Easynvest\src\Easynvest.Infrastructure.Utils\obj\Debug\netcoreapp3.1\Easynvest.Infrastructure.Utils.csprojAssemblyReference.cache

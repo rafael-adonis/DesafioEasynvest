@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "H2uK3NnDh8gzMxsVlPjgIfodsIsJ1uMbI0sqiYGGeCnTnh/xid4GMG3Er7G3RX+pf27kLTdvLiGn2zCSBNfm+Q==",
+  "success": true,
+  "projectFilePath": "W:\\Desafio-Easynvest\\Easynvest\\src\\Easynvest.Infrastructure.Utils\\Easynvest.Infrastructure.Utils.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Rafae\\.nuget\\packages\\microsoft.extensions.configuration\\3.1.0\\microsoft.extensions.configuration.3.1.0.nupkg.sha512",
+    "C:\\Users\\Rafae\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\3.1.0\\microsoft.extensions.configuration.abstractions.3.1.0.nupkg.sha512",
+    "C:\\Users\\Rafae\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\5.0.0\\microsoft.extensions.dependencyinjection.abstractions.5.0.0.nupkg.sha512",
+    "C:\\Users\\Rafae\\.nuget\\packages\\microsoft.extensions.options\\3.1.10\\microsoft.extensions.options.3.1.10.nupkg.sha512",
+    "C:\\Users\\Rafae\\.nuget\\packages\\microsoft.extensions.primitives\\3.1.10\\microsoft.extensions.primitives.3.1.10.nupkg.sha512"
+  ],
+  "logs": []
+}
